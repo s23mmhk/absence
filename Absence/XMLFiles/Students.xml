@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+
+<student><id>100</id><name>ali</name></student><student><id>200</id><name>fadi</name></student><student><id>300</id><name>hasan</name></student><student><id>400</id><name>jad</name></student>
+<student><id>500</id><name>mohamad</name></student><student><id>600</id><name>fadi</name></student><student><id>700</id><name>nadia</name></student>
+
+<student><id>800</id><name>alaa zreik</name></student></students>

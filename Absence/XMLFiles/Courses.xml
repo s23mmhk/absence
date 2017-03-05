@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<courses>
+<course><id>Info402</id><name>Security</name></course>
+<course><id>Info403</id><name>Advenced OS</name></course>
+<course><id>Info444</id><name>AI</name></course>
+<course><id>Info445</id><name>GUI</name></course>
+
+<course><id>Info446</id><name>html5</name></course>
+<course><id>Info317</id><name>Network</name></course></courses>

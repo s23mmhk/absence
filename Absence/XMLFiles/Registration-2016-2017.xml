@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<registrations>
+
+	<registration courseid="Info444" year="2016-2017" lang="french">
+		<student><id>100</id><name>ali</name></student>
+		<student><id>200</id><name>fadi</name></student>
+		<student><id>300</id><name>hasan</name></student>
+	<student><id>400</id><name>jad</name></student><student><id>500</id><name>mohamad</name></student><student><id>700</id><name>nadia</name></student></registration>
+	
+	<registration courseid="Info403" year="2016-2017" lang="none">
+		<student><id>900</id><name>hadi</name></student>
+		<student><id>1000</id><name>marwa</name></student>
+		<student><id/><name>chadi</name></student>
+	<student><id>600</id><name>fadi</name></student><student><id>300</id><name>hasan</name></student></registration>
+<registration courseid="Info402" year="2016-2017" lang="french"><student><id>100</id><name>ali</name></student><student><id>200</id><name>fadi</name></student><student><id>600</id><name>fadi</name></student><student><id>300</id><name>hasan</name></student><student><id>400</id><name>jad</name></student><student><id>500</id><name>mohamad</name></student><student><id>700</id><name>nadia</name></student></registration><registration courseid="Info403" year="2016-2017" lang="english"><student><id>800</id><name>alaa zreik</name></student><student><id>100</id><name>ali</name></student><student><id>200</id><name>fadi</name></student><student><id>600</id><name>fadi</name></student><student><id>300</id><name>hasan</name></student><student><id>400</id><name>jad</name></student><student><id>500</id><name>mohamad</name></student><student><id>700</id><name>nadia</name></student></registration><registration courseid="Info446" year="2016-2017" lang="english"><student><id>800</id><name>alaa zreik</name></student><student><id>100</id><name>ali</name></student><student><id>200</id><name>fadi</name></student><student><id>600</id><name>fadi</name></student><student><id>300</id><name>hasan</name></student><student><id>400</id><name>jad</name></student><student><id>500</id><name>mohamad</name></student><student><id>700</id><name>nadia</name></student></registration></registrations>
